@@ -25,7 +25,6 @@ baseurl: ''
 title: 'Flodur OÜ'
 description: 'Lahe description siin'
 permalink: pretty
-logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=52"
 
 # Pagination
 paginate: 5
@@ -33,24 +32,12 @@ paginate_path: blog/page:num
 
 # Header nav
 navigation_header:
-- title: Home
+- title: Kodu
   url: /
-- title: About
+- title: Meist
   url: /about/
-- title: Blog
-  url: /blog/
 
 # Footer nav
 navigation_footer:
-- title: Back to top
+- title: Tagasi üles
   url: "#top"
-
-# Collections
-collections:
-  posts:
-    title: Posts
-    output: true
-    description: "My thoughts and ideas"
-    feature_text: |
-      Welcome to my blog
-    feature_image: "https://picsum.photos/2560/600?image=866"
