@@ -7,7 +7,7 @@ feature_text: |
 
 Flodur OÜ on asutatud eesmärgil pakkuda IT ettevõtetele dünaamilist arendusressurssi, olles seejuures efektiivsed aja kasutuse suhtes.
 
-{% include button.html text="Võta ühendust" icon="github" link="https://github.com/daviddarnes/alembic" color="#0366d6" %}
+{% include button.html text="Võta ühendust" icon="email" link="mailto:rudolf@flodur.ee" color="#0366d6" %}
 
 ### DevOps as a Service
 Pakume unikaalset lahendust, kui Teil on mitmeid legacy rakendusi, mis on endiselt kasutusel, aga on ajale jalgu jäänud reliisimisprotsessidega - reliisiajad on pikad ning kohmakad, tihtipeale sisaldavad need palju muudatusi, mis kõik ühe korraga klientidele edastatakse. Sellisel lähenemisel on mitmed probleemid:

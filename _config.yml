@@ -34,10 +34,10 @@ paginate_path: blog/page:num
 navigation_header:
 - title: Kodu
   url: /
-- title: Meist
-  url: /about/
 
 # Footer nav
 navigation_footer:
+- title: Kontakt
+  url: "mailto:rudolf@flodur.ee"
 - title: Tagasi üles
   url: "#top"
