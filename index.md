@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+---
+layout: page
+feature_image: "https://picsum.photos/1300/400?image=989"
+feature_text: |
+  ## Flodur OÜ
+---
 
-You can use the [editor on GitHub](https://github.com/Blefish/flodur.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Flodur OÜ on asutatud eesmärgil pakkuda IT ettevõtetele dünaamilist arendusressurssi, olles seejuures efektiivsed aja kasutuse suhtes.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+{% include button.html text="Võta ühendust" icon="github" link="https://github.com/daviddarnes/alembic" color="#0366d6" %}
 
-### Markdown
+### DevOps as a Service
+Pakume unikaalset lahendust, kui Teil on mitmeid legacy rakendusi, mis on endiselt kasutusel, aga on ajale jalgu jäänud reliisimisprotsessidega - reliisiajad on pikad ning kohmakad, tihtipeale sisaldavad need palju muudatusi, mis kõik ühe korraga klientidele edastatakse. Sellisel lähenemisel on mitmed probleemid:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Potentsiaalsete vigade arv reliisis on suurem
+- Vead tulevad hiljem välja
+- Keeruline reliisi tagasi võtta
 
-```markdown
-Syntax highlighted code block
+Meie lahendus aitab teil nullist luua täielik CI/CD pipeline, tänu millele väheneb halduse ressurss, paraneb oluliselt agiilsus ning mis kõige tähtsam, tõstab arendajate kiirust, sest vähem aega kulub reliisi paigaldamisele, testimisele ning mitme arenduse kokkuliitmisel on konfliktidele kuluv aeg kordades madalam. Tehes kasvõi iga päev automaatse CI/CD pipeline’i abil reliise, võimaldab kiirelt saada klientidelt tagasisidet ning vajadusel korrektuure teha või reliis tagasi võtta (rollback) ilma vaevata.
 
-# Header 1
-## Header 2
-### Header 3
+Tänapäeva CI/CD lahendused on loodud koodi põhjal, seega tulevikus saavad rakenduse arendajad vajadusel ise hallata ning pisimuudatusi teha, kui selleks peaks vajadus tekkima. Vajadusel pakume ka haldusteenust intsidentide kiireks tuvastamiseks ja lahendamiseks ning parenduste tegemiseks.
 
-- Bulleted
-- List
+### Mobiilrakenduste arendus
+Pakume Kotlin Android mobiilrakenduste arendust. Jälgime tehnoloogia viimaseid arenguid ning kasutame parimaid arhitektuurilisi lahendusi, loomaks rakendusi, mis on skaleeritavad.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Blefish/flodur.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Miks valida Flodur?
+- Lai kogemustepagas - olgu tegu mikrokontrolleriga, mis läbi I2C suhtleb Linuxiga, salvestades vajalikud andmed läbi Spring Boot veebirakenduse REST teenuse abil PostgreSQL andmebaasi ning kuvades töödeldud info läbi Android mobiilirakenduse kasutajale, meie peale võite alati panustada!
+- Eelistame uusi tehnoloogiaid - tegeleme pidevalt enda arendamisega, osaledes koolitustel ning reaalselt järgi proovides erinevaid tehnoloogiaid, et leida kuldne kesktee Teile parimat lahendust pakkudes.
+- Kliendipõhised arved - koostame arve kas töö aja kohaselt või projekti järgi. Tänu dünaamilisele arvestusele on võimalik Teil meie resurssi optimaalselt kasutada kas ühe või mitme projekti põhiselt.
