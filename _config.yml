@@ -23,7 +23,7 @@ plugins:
 url: 'https://flodur.ee'
 baseurl: ''
 title: 'Flodur OÜ'
-description: 'Lahe description siin'
+description: ''
 permalink: pretty
 
 # Pagination
