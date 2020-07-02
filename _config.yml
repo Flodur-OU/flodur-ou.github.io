@@ -37,6 +37,8 @@ navigation_header:
 
 # Footer nav
 navigation_footer:
+- title: Privaatsuseeskiri
+  url: /privacy/
 - title: Kontakt
   url: "mailto:rudolf@flodur.ee"
 - title: Tagasi üles
