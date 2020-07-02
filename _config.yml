@@ -28,7 +28,7 @@ plugins:
 url: 'https://flodur.ee'
 baseurl: ''
 title: 'Flodur OÜ'
-description: ''
+description: 'Mobiilrakenduste arendus ning DevOps teenused'
 email: 'rudolf@flodur.ee'
 permalink: pretty
 
