@@ -3,6 +3,11 @@ remote_theme: daviddarnes/alembic
 
 # File excludes
 exclude:
+- _posts
+- about.md
+- blog
+- categories.md
+- general
 - README.md
 - Gemfile
 - Gemfile.lock
@@ -26,10 +31,6 @@ title: 'Flodur OÜ'
 description: ''
 email: 'rudolf@flodur.ee'
 permalink: pretty
-
-# Pagination
-paginate: 5
-paginate_path: blog/page:num
 
 # Header nav
 navigation_header:
