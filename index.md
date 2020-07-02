@@ -1,5 +1,6 @@
 ---
 layout: page
+description: Mobiilrakenduste arendus ning DevOps teenused
 ---
 
 Flodur OÜ on asutatud eesmärgil pakkuda IT ettevõtetele dünaamilist arendusressurssi, olles seejuures efektiivsed aja kasutuse suhtes.

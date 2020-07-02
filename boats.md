@@ -1,5 +1,6 @@
 ---
 title: Paadid
+description: Android rakendus praamid.ee keskkonnale
 layout: page
 feature_image: /assets/boats/ship_toll.jpg
 ---
