@@ -1,4 +1,5 @@
 ---
+title: Paadid
 layout: page
 feature_image: /assets/boats/ship_toll.jpg
 ---
