@@ -24,6 +24,7 @@ url: 'https://flodur.ee'
 baseurl: ''
 title: 'Flodur OÜ'
 description: ''
+email: 'rudolf@flodur.ee'
 permalink: pretty
 
 # Pagination
@@ -34,12 +35,12 @@ paginate_path: blog/page:num
 navigation_header:
 - title: Kodu
   url: /
+- title: Paadid
+  url: /boats/
 
 # Footer nav
 navigation_footer:
-- title: Privaatsuseeskiri
-  url: /privacy/
 - title: Kontakt
-  url: "mailto:rudolf@flodur.ee"
+  url: 'mailto:rudolf@flodur.ee'
 - title: Tagasi üles
-  url: "#top"
+  url: '#top'
