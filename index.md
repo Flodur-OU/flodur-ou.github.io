@@ -1,12 +1,12 @@
 ---
 layout: page
-description: Mobiilrakenduste arendus ning DevOps teenused
+description: Mobiilirakenduste arendus ning DevOps teenused
 ---
 
 Flodur OÜ on asutatud eesmärgil pakkuda IT ettevõtetele dünaamilist arendusressurssi, olles seejuures efektiivsed aja kasutuse suhtes.
 
-#### Mobiilrakenduste arendus
-Pakume Kotlin/Android mobiilrakenduste arendust. Jälgime tehnoloogia viimaseid arenguid ning kasutame parimaid arhitektuurilisi lahendusi nagu MVVM ning MVI, loomaks rakendusi, mis skaleeruvad Teie firmaga.
+#### Mobiilirakenduste arendus
+Pakume Kotlin/Android rakenduste arendust. Jälgime tehnoloogia viimaseid arenguid ning kasutame parimaid arhitektuurilisi lahendusi nagu MVVM ning MVI, loomaks rakendusi, mis skaleeruvad Teie firmaga.
 
 Vaata meie poolt loodud rakendust [Paadid](/boats)
 
